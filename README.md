@@ -1,4 +1,4 @@
-# 🇮🇳 BHARAT PANCHYT
+# BHARAT PANCHYT
 
 ## People's Actual Needs Connected With Higher-Education, Youth And Technology
 
