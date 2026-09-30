@@ -1,32 +1,89 @@
-# React + TypeScript + Vite
+# 🇮🇳 BHARAT PANCHYT
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+## People's Actual Needs Connected With Higher-Education, Youth And Technology
 
-Currently, two official plugins are available:
+### From People's Problems to Research-Backed Solutions
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+# 🏆 SMART INDIA HACKATHON 2026
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+| Detail | Information |
+|---|---|
+| **Problem Statement ID** | **SIH26043** |
+| **Problem Statement** | A digital platform to crowdsource societal challenges and facilitate collaborative problem solving through universities and industry partnerships |
+| **Theme** | **Smart Education** |
+| **PS Category** | **Software** |
+| **Team ID** | **119652** |
+| **Team Name** | **It's A Yes** |
+| **Solution Name** | **BHARAT PANCHYT** |
 
-## Expanding the Oxlint configuration
+---
 
-If you are developing a production application, we recommend enabling type-aware lint rules by installing `oxlint-tsgolint` and editing `.oxlintrc.json`:
+# 💡 About BHARAT PANCHYT
 
-```json
-{
-  "$schema": "./node_modules/oxlint/configuration_schema.json",
-  "plugins": ["react", "typescript", "oxc"],
-  "options": {
-    "typeAware": true
-  },
-  "rules": {
-    "react/rules-of-hooks": "error",
-    "react/only-export-components": ["warn", { "allowConstantExport": true }]
-  }
-}
-```
+**BHARAT PANCHYT** is a digital platform that connects real problems faced by people with universities, students, researchers, industry and government.
 
-See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+Many problems exist at the local level, but they often remain limited to a village, town or district because there is no simple connection between the people facing the problem and the institutions that have the knowledge and resources to work on them.
+
+At the same time, universities and students have research capabilities but may not always have access to real-world problems that need research-based solutions.
+
+**BHARAT PANCHYT connects these two sides.**
+
+The platform creates a structured journey where a problem can move from:
+
+> **People → Reporting → Validation → Research → Collaboration → Deployment → Verified Outcome**
+
+---
+
+# 🎯 Vision
+
+### **From People's Problems to Research-Backed Solutions**
+
+The vision of BHARAT PANCHYT is to create a stronger connection between:
+
+**Citizens + Students + Universities + Researchers + Industry + Government**
+
+so that real community problems can reach the right people who have the knowledge, research capability and resources to work on them.
+
+---
+
+# 🚨 The Problem
+
+There are three major gaps:
+
+### 👥 Citizens
+People face real problems but often do not have a structured channel to bring those problems to universities, researchers or institutions that can work on them.
+
+### 🎓 Universities & Students
+Universities and students have research capabilities but may not have enough visibility into real-world problems faced by communities.
+
+### 💼 Research, Industry & Funding
+Even when useful research is possible, finding suitable funding, industry support and a path towards deployment can be difficult.
+
+### 🔗 The Missing Connection
+
+There is a need for a common platform that connects these different stakeholders around **real and validated societal problems**.
+
+---
+
+# 🚀 Proposed Solution
+
+BHARAT PANCHYT creates a structured platform where citizens can report real problems and those problems can be connected with suitable research expertise, funding and implementation support.
+
+The platform follows a simple seven-step process:
+
+```text
+1. Citizen Reporting
+        ↓
+2. AI Understanding
+        ↓
+3. District Validation
+        ↓
+4. Research Expertise Matching
+        ↓
+5. Funding & Collaboration
+        ↓
+6. Research & Deployment
+        ↓
+7. Public Outcome
